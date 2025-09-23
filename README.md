@@ -28,4 +28,5 @@ Could haves:
 
 ### Concept
 ![Concept image](eventcalendar_concept.jpg)
+![Concept image](Screenshot_ECalendar.jpg)
 
